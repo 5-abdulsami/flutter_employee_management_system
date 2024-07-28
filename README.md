@@ -1,16 +1,26 @@
-# tiers_practice_app
+Employee Management System
+A simple employee management system built with Flutter using shared preferences for persistent data storage.
 
-A new Flutter project.
+Features
+Add Employee: Tap the "add" icon in the app bar to open a dialog for entering employee details (name, role, and salary).
+View Employees: The main screen displays a list of added employees.
+Edit Employee: Tap the edit icon on an employee's list tile to open a dialog for updating the employee's information.
+Delete Employee: Tap the delete icon on an employee's list tile to open a confirmation alert dialog before deleting the employee.
 
-## Getting Started
+Usage
+Adding an Employee:
 
-This project is a starting point for a Flutter application.
+Tap the "add" icon in the app bar.
+Enter the employee's name, role, and salary in the dialog.
+Tap "Save" to add the employee to the list.
+Editing an Employee:
 
-A few resources to get you started if this is your first Flutter project:
+Tap the edit icon on the employee's list tile.
+Update the employee's information in the dialog.
+Tap "Save" to reflect the changes on the main screen.
+Deleting an Employee:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tap the delete icon on the employee's list tile.
+Confirm the deletion in the alert dialog.
+Persistent Data
+Employee information is stored persistently using shared preferences, ensuring data is retained even after the app is closed.
