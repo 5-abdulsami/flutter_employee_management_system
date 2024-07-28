@@ -13,10 +13,10 @@ Tap the edit icon on an employee's list tile to open a dialog for updating the e
 Tap the delete icon on an employee's list tile to open a confirmation alert dialog before deleting the employee.
 
 ![Main Screen](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/main_screen.jpg)
-![Main Screen](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/add_employee.jpg)
-![Main Screen](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/delete_employee.jpg)
-![Main Screen](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/edit_employee.jpg)
-![Main Screen](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/empty_list.jpg)
+![Add Employee](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/add_employee.jpg)
+![Delete Employee](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/delete_employee.jpg)
+![Edit Employee](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/edit_employee.jpg)
+![Empty List](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/empty_list.jpg)
 
 
 
