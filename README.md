@@ -1,19 +1,19 @@
-# tiers_practice_app
+# Employee Management System
 
-A new Flutter project.
+A simple employee management system built with Flutter using shared preferences for persistent data storage.
 
-## Getting Started
+Features
+Add Employee: Tap the "add" icon in the app bar to open a dialog for entering employee details (name, role, and salary).
+View Employees: The main screen displays a list of added employees.
+Edit Employee: Tap the edit icon on an employee's list tile to open a dialog for updating the employee's information.
+Delete Employee: Tap the delete icon on an employee's list tile to open a confirmation alert dialog before deleting the employee.
 
-This project is a starting point for a Flutter application.
+![Main Screen](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/main_screen.jpg)
+![Main Screen](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/add_employee.jpg)
+![Main Screen](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/delete_employee.jpg)
+![Main Screen](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/edit_employee.jpg)
+![Main Screen](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/empty_list.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
-#Persistent Data:
- Employee information is stored persistently using shared preferences, ensuring data is retained even after the app is closed.
