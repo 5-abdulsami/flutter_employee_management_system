@@ -1,13 +1,16 @@
-Employee Management System
+Employee Management System:
+
 A simple employee management system built with Flutter using shared preferences for persistent data storage.
 
-Features
+Features:
+
 Add Employee: Tap the "add" icon in the app bar to open a dialog for entering employee details (name, role, and salary).
 View Employees: The main screen displays a list of added employees.
 Edit Employee: Tap the edit icon on an employee's list tile to open a dialog for updating the employee's information.
 Delete Employee: Tap the delete icon on an employee's list tile to open a confirmation alert dialog before deleting the employee.
 
-Usage
+Usage:
+
 Adding an Employee:
 
 Tap the "add" icon in the app bar.
@@ -22,5 +25,6 @@ Deleting an Employee:
 
 Tap the delete icon on the employee's list tile.
 Confirm the deletion in the alert dialog.
-Persistent Data
+
+Persistent Data:
 Employee information is stored persistently using shared preferences, ensuring data is retained even after the app is closed.
