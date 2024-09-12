@@ -2,22 +2,14 @@
 
 A simple employee management system built with Flutter using shared preferences for persistent data storage.
 
-# Features
-# Add Employee:   
+## Features
+### Add Employee<br> 
 Tap the "add" icon in the app bar to open a dialog for entering employee details (name, role, and salary).
-# View Employees:   
+### View Employees<br>   
 The main screen displays a list of added employees.
-# Edit Employee:  
+### Edit Employee<br>  
 Tap the edit icon on an employee's list tile to open a dialog for updating the employee's information.
-# Delete Employee:  
+### Delete Employee<br> 
 Tap the delete icon on an employee's list tile to open a confirmation alert dialog before deleting the employee.
-
-![Main Screen](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/main_screen.jpg)
-![Add Employee](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/add_employee.jpg)
-![Delete Employee](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/delete_employee.jpg)
-![Edit Employee](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/edit_employee.jpg)
-![Empty List](https://github.com/5-abdulsami/flutter_employee_management_system/assets/images/empty_list.jpg)
-
-
 
 
